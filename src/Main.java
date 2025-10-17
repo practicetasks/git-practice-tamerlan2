@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Код #1");
 
         System.out.println("Код №2");
+
+        System.out.println("Код №3");
     }
 }
