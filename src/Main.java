@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("Код №2");
 
+        System.out.println("Код перед #3");
+
         System.out.println("Код №3");
     }
 }
